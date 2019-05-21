@@ -1,0 +1,1 @@
+ C:\Users\schnu\.conda\envs\tensorflow
